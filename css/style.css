@@ -69,7 +69,7 @@ a {
 .hero  {
     padding: 80px 20px;
     background-color: #1D222C;
-    background-image: linear-gradient(rgba(249, 115, 22, 1), rgba(0, 0, 0, 0)), url("/img/banner_nexora.jpg");
+    background-image: linear-gradient(rgba(249, 115, 22, 1), rgba(0, 0, 0, 0)), url(".../img/banner_nexora.jpg");
     background-size: cover;
     background-position: left;
     color: #ffffff;
